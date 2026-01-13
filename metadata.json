@@ -1,0 +1,15 @@
+{
+  "name": "M4 Velocity",
+  "symbol": "V4",
+  "description": "High-performance token on Solana",
+  "image": "https://github.com/Aldin-Slavov/v4-token/blob/main/m4logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/Aldin-Slavov/v4-token/blob/main/m4logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
